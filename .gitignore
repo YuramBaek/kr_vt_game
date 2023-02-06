@@ -2,3 +2,8 @@ Library
 UserSettings
 Temp
 Logs
+.vs
+obj
+.vsconfig
+*.csproj
+kr_vt_game.sln
